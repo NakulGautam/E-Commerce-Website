@@ -1,0 +1,72 @@
+@media (max-width: 991px) and (min-width: 768px) {
+  .logo_div {
+    width: 100% !important;
+    text-align: center;
+    padding-bottom: 10px !important;
+  }
+  .head2 {
+    padding-top: 5px;
+  }
+  .dropdown {
+    display: none;
+  }
+  .head2_1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0 !important;
+  }
+  .srch_bar {
+    width: 442px;
+    height: 95%;
+    border: none;
+  }
+  .srch_sbtn {
+    display: flex;
+    justify-content: center;
+    width: auto;
+  }
+  .Rside_cont {
+    width: 71%;
+    margin-left: 20px !important;
+  }
+  .ad1 {
+    height: 250px !important;
+    width: 100%;
+    object-fit: fill;
+    object-position: center;
+  }
+
+  .R1_toprated {
+    display: none;
+  }
+  .pddiv_inner,
+  .pddiv_innerH {
+    width: 33.335%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .pddiv_innerH {
+    display: none;
+  }
+  .pd {
+    object-fit: cover !important;
+    height: 170px !important;
+  }
+  .btext1 {
+    color: #616161;
+    display: flex;
+    align-items: center;
+    font-size: 8px;
+  }
+  .vr {
+    height: 5px;
+    margin-top: 5px;
+    margin-left: 8px !important;
+    margin-right: 8px !important;
+  }
+  .logopic {
+    height: 63px;
+  }
+}

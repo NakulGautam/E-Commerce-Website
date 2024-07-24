@@ -1,0 +1,99 @@
+@media (max-width: 767px) and (min-width: 576px) {
+  .logo_div {
+    width: 100% !important;
+    text-align: center;
+    padding-bottom: 10px !important;
+  }
+  .head2_1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0 !important;
+  }
+  .dropdown {
+    display: none;
+  }
+  .srch_bar {
+    width: 266px;
+    height: 95%;
+    border: none;
+  }
+  .srch_sbtn {
+    display: flex;
+    justify-content: center;
+    width: auto;
+  }
+  .R1_toprated {
+    display: none;
+  }
+  .top_head .head2 {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  .top_head .head2 .head2_1 {
+    padding-top: 10px !important;
+    padding-bottom: 0 !important;
+  }
+  .logo_div {
+    display: flex;
+    justify-content: center;
+  }
+  .search {
+    margin-top: 5px !important;
+    margin-left: 12px;
+  }
+  .nav_div {
+    position: absolute !important;
+    top: 180px !important;
+    left: 17px !important;
+    right: 28px !important;
+    z-index: 1 !important;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .innernav {
+    width: 100%;
+  }
+  .cart_div {
+    width: auto !important;
+  }
+  .cart_btn {
+    height: 38px !important;
+  }
+  .Lside_cont {
+    display: none;
+  }
+  .Rside_cont {
+    margin-left: 12px;
+    margin-left: 0 !important;
+    width: 100% !important;
+  }
+  .ad1 {
+    height: 167px !important;
+    width: 100%;
+    object-fit: fill;
+    object-position: center;
+  }
+  .logopic {
+    height: 46px;
+  }
+  .pddiv_inner,
+  .pddiv_innerH {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .btext1 {
+    color: #616161;
+    display: flex;
+    align-items: center;
+    font-size: 9px;
+  }
+  .vr {
+    height: 5px;
+    margin-top: 3px;
+    margin-left: 11px;
+    margin-right: 11px;
+  }
+}

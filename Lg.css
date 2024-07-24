@@ -1,0 +1,57 @@
+@media (max-width: 1200px) and (min-width: 992px) {
+  .LR {
+    width: 190px !important;
+  }
+  .head2 {
+    padding-top: 33px;
+  }
+  .dropdown {
+    display: none;
+  }
+  .head2_1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .srch_bar {
+    width: 500px;
+    height: 95%;
+    border: none;
+  }
+  .srch_sbtn {
+    display: flex;
+    justify-content: center;
+    width: auto;
+  }
+  .Rside_cont {
+    width: 77%;
+  }
+  .ad1 {
+    height: 221px !important;
+    width: 70%;
+    object-fit: fill;
+    object-position: center;
+  }
+  .pddiv_innerH {
+    display: none;
+  }
+  .pddiv_inner {
+    width: 33.33%;
+  }
+  .btext1 {
+    color: #616161;
+
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+  }
+  .vr {
+    height: 5px;
+    margin-top: 5px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+  }
+  .logopic {
+    height: 86px;
+  }
+}

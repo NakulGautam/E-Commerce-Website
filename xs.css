@@ -1,0 +1,138 @@
+@media (max-width: 575px) and (min-width: 482px) {
+  .logo_div {
+    width: 100% !important;
+    text-align: center;
+    padding-bottom: 10px !important;
+  }
+  .dropdown {
+    display: none;
+  }
+  .head2_1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0 !important;
+  }
+  .srch_bar {
+    width: 213px;
+    height: 100%;
+    border: none;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    padding-left: 9px;
+  }
+  .srch_sbtn {
+    display: flex;
+    justify-content: center;
+    width: auto;
+  }
+  .ad1 {
+    height: 192px !important;
+    width: 100%;
+    object-fit: fill;
+    object-position: center;
+  }
+
+  .R1_toprated {
+    display: none;
+  }
+  .top_head .head2 {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  .top_head {
+    padding-top: 10px !important;
+    padding-bottom: 0 !important;
+  }
+
+  .nav_div {
+    position: absolute !important;
+    top: 180px !important;
+    left: 0px !important;
+    right: 28px !important;
+    z-index: 1 !important;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .innernav {
+    width: 100%;
+  }
+  .cart_div {
+    width: auto !important;
+    margin-left: 21px !important;
+  }
+  .cart_btn {
+    height: 38px !important;
+  }
+  .Rside_cont {
+    margin-left: 12px;
+  }
+  .search_btn {
+    padding-left: 0px !important ;
+    width: auto !important;
+    padding-bottom: 0px;
+  }
+  .Lside_cont {
+    display: none;
+  }
+  .Rside_cont {
+    margin-left: 12px;
+    margin-left: 0 !important;
+    width: 100% !important;
+  }
+  .pddiv_inner,
+  .pddiv_innerH {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .pd {
+    object-fit: cover;
+    height: 205px;
+  }
+  .R3 {
+    flex-wrap: wrap;
+  }
+
+  .R3_ad.ms-4 {
+    margin-left: 0 !important;
+    margin-top: 20px;
+    width: 100% !important;
+  }
+  .R3_pic.img-fluid {
+    height: 191px !important;
+    width: 541px !important;
+  }
+  .blog_div {
+    flex-wrap: wrap;
+  }
+  .btext1 {
+    color: #616161;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    padding-left: 10px !important;
+  }
+  .vr {
+    height: 5px;
+    margin-bottom: 3px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+  #logopicH {
+    display: none !important;
+  }
+  .R5ad {
+    width: 49%;
+  }
+  .R5adH {
+    display: none;
+  }
+  .footer_inner {
+    flex-wrap: wrap;
+  }
+  .footer_col {
+    width: 49%;
+  }
+}
