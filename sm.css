@@ -96,4 +96,7 @@
     margin-left: 11px;
     margin-right: 11px;
   }
+  .footer_col {
+  width: 49%;
+}
 }
